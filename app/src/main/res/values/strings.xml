@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstNDK</string>
+    <string name="addResult">加法结果</string>
+    <string name="reduceResult">减法结果</string>
+    <string name="showResult">显示结果</string>
+</resources>
